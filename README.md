@@ -1,4 +1,5 @@
 # travel-calculator
+<h1>Introduction:</h1>
 A very simple tool to calculate travel budget based on well known criteria.
 
 The current criteria items are:
@@ -17,3 +18,11 @@ TODO:
 * Generate estimated budget for the selected country.
 
 Feel free to contribute :)
+
+
+<h1>How to run?</h1>
+
+You can simply run this app by hitting the following commands:
+
+    npm install (if you don't have node_modules)
+    yarn start
