@@ -2,14 +2,22 @@
   text-align: center;
 }
 
+.calculator-card{
+  max-width: 500px;
+  margin:5% auto;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
 }
+body{
 
+}
 .App-header {
-  background-color: #282c34;
+  /* background-image: url('https://allhdwallpapers.com/wp-content/uploads/2019/01/Istanbul-Turkey-4K-Wallpapers6.jpg'); */
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -20,14 +28,26 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: firebrick;
 }
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
+} */
+#calculate{
+  margin: 0 auto;
+}
+
+.logo-container{
+  position: relative;
+  top:-225px;
+}
+
+.calculator-card{
+  background-image: url('http://7-themes.com/data_images/collection/6/4476398-new-york-wallpapers.jpg')
 }
