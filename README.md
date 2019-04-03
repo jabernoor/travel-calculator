@@ -17,7 +17,10 @@ TODO:
 * Get lowest ticket price based on external APIs.
 * Generate estimated budget for the selected country.
 
+I'm using react js on client side, and I didn't decide which language to use for backend services :| 
+
 Feel free to contribute :)
+
 
 
 <h1>How to run?</h1>
